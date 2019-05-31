@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+  http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"
+><key id="label" for="node" attr.name="label" attr.type="string" />
+<key id="weight" for="edge" attr.name="weight" attr.type="double">
+<default>0.0</default>
+</key>
+<key id="crawlDate" for="edge" attr.name="crawlDate" attr.type="string" />
+<graph mode="static" edgedefault="directed">
+<node id="aa1ab627915bd04f8ba038134e3ed3b1">
+<data key="label">www.twitter.com</data>
+</node>
+<node id="3f550bc163144ccb175a118c37a6641d">
+<data key="label">maps.google.com</data>
+</node>
+<node id="8da932a90ba35013ebdce2d22e47c6a8">
+<data key="label">sjammash.wixsite.com</data>
+</node>
+<node id="58d91484d2af338c02a829c6df920268">
+<data key="label">wifidocs.wrdsb.ca</data>
+</node>
+<node id="94c57be5a5915b7e3139a67d46b8bd4f">
+<data key="label">secure.rotundasoftware.com</data>
+</node>
+<node id="599c07d87880e125509bcbd31b5c8095">
+<data key="label">uwaterloo.ca</data>
+</node>
+<node id="a29d469f3e1bb3aa236fa590af2e71c2">
+<data key="label">www.gojobs.gov.on.ca</data>
+</node>
+<node id="f8995961d5c6b55ba0f05db3bcd750dc">
+<data key="label">www.waterloochronicle.ca</data>
+</node>
+<node id="472c99edc76c51bc1fd9aab22d5fd459">
+<data key="label">myway.wrdsb.ca</data>
+</node>
+<node id="34ff8fe67e4d14f7396f210407eb91e1">
+<data key="label">sjamap.weebly.com</data>
+</node>
+<node id="b15e0fbccd8e687600feb2e00eaa4e53">
+<data key="label">spirit.promoshan.com</data>
+</node>
+<node id="0eb78f4200ddfb902abb9a2a609bb7db">
+<data key="label">ok2bme.ca</data>
+</node>
+<node id="7c1a0490dbdbe5d3f7eb4a4bdf4645fa">
+<data key="label">homeworkhelp.ilc.org</data>
+</node>
+<node id="2958aba95e455d1c78bd075742896911">
+<data key="label">www.canadahelps.org</data>
+</node>
+<node id="af54f701816050ff5714d989465c6aa2">
+<data key="label">www.ontariocolleges.ca</data>
+</node>
+<node id="c01f4607371c1ff03fec8a666647dc35">
+<data key="label">www.nasponline.org</data>
+</node>
+<node id="2e341692165e543ccce3086bc6240a49">
+<data key="label">letstalk.bell.ca</data>
+</node>
+<node id="fb37d1d6f1b226d46d6d86ff171bf12c">
+<data key="label">www.orangeshirtday.org</data>
+</node>
+<node id="928cb5c211861a142b576af3da536a93">
+<data key="label">pic-wrapsc-parentevent-2016.eventbrite.ca</data>
+</node>
+<node id="9d9e0ed844c33edf0d320d40ccb4de12">
+<data key="label">cslc2017.studentleadership.ca</data>
+</node>
+<node id="5123da8bf48108871e0cf27edd355443">
+<data key="label">jam.wrdsb.ca</data>
+</node>
+<node id="ee564f957c5ca0ef0e31d5218481d005">
+<data key="label">schools.wrdsb.ca</data>
+</node>
+<node id="fc537f76b70d59864f86bd030aae3ccd">
+<data key="label">jamhacks.ca</data>
+</node>
+<node id="1f444affda0fe2b79095e7c8e725dbed">
+<data key="label">forms.gle</data>
+</node>
+<node id="c63bd02a4896d5f9d1378a61b47c2803">
+<data key="label">www.eventbrite.ca</data>
+</node>
+<node id="973a92f100ca7b9d094da7eb3c94081d">
+<data key="label">www.canada.ca</data>
+</node>
+<node id="0877382ff244da16e7755cf4ea6c9e95">
+<data key="label">www.stswr.ca</data>
+</node>
+<node id="6a0435971ccbd1044a7ac0667b5577e9">
+<data key="label">www.bus-edpartnership.org</data>
+</node>
+<node id="c190efa335ebcb6a7d04d495510529d1">
+<data key="label">www.volunteerkw.ca</data>
+</node>
+<node id="d1800caa7d60fd1385be05d0dccb5695">
+<data key="label">www.thelearningpartnership.ca</data>
+</node>
+<node id="d386b6a9697a3146b8017d266e68a55e">
+<data key="label">kwlegacy.ca</data>
+</node>
+<node id="0ef82cbb4fa11fb0fbba7714f316a37d">
+<data key="label">www.ceef.ca</data>
+</node>
+<node id="b306f040c5f21fe1fed6c7b19760eebb">
+<data key="label">bci.wrdsb.ca</data>
+</node>
+<node id="69a08aac1054c6a321951acc33bfc3b7">
+<data key="label">www.edu.gov.on.ca</data>
+</node>
+<node id="7905d1c4e12c54933a44d19fcd5f9356">
+<data key="label">twitter.com</data>
+</node>
+<node id="95093b1e69e4eb7ba6d15ee439dbb9cb">
+<data key="label">goo.gl</data>
+</node>
+<node id="df4c149af3177f047fb285ea552fcf03">
+<data key="label">report.wrdsb.ca</data>
+</node>
+<node id="cb997450f11e3d098e74fe1c4cd6712d">
+<data key="label">osap.gov.on.ca</data>
+</node>
+<node id="660328a7f9004d462085aa67a82065db">
+<data key="label">www.facebook.com</data>
+</node>
+<node id="5d26c4e3e42238f692976bd78407f42d">
+<data key="label">www.surveymonkey.com</data>
+</node>
+<node id="e05dedaca7b78bbbbd673fef8386873a">
+<data key="label">dcsummit.weebly.com</data>
+</node>
+<node id="97349262b5ab52c52000af07bbf2128b">
+<data key="label">docs.google.com</data>
+</node>
+<node id="aa355ac41a92da3940288fb665e89acb">
+<data key="label">wesingocanada.hscampaigns.com</data>
+</node>
+<node id="c834a512aacd9ad122952194bf1830eb">
+<data key="label">bookmygrad.ca</data>
+</node>
+<node id="2b54b84d195dad8be52b2accb2c31309">
+<data key="label">waterlooregional.ca1.qualtrics.com</data>
+</node>
+<node id="5bd8731635ee2132eac4b4c8ebd87e6c">
+<data key="label">staff.wrdsb.ca</data>
+</node>
+<node id="604d5c5ec67df1a11cfaacc25418d7d8">
+<data key="label">bit.ly</data>
+</node>
+<node id="9c9da7c47db07ae7fe4ffee2d3eef75b">
+<data key="label">www.edgeimaging.ca</data>
+</node>
+<node id="236a4fa0c3cf351403b8f19453a9a942">
+<data key="label">bpweb.stswr.ca</data>
+</node>
+<node id="60e026b17abe69e2d8f948b6effd54c4">
+<data key="label">www.ontario.ca</data>
+</node>
+<node id="ab3201c6103205c14f6e56b11b2fcd46">
+<data key="label">www.youtube.com</data>
+</node>
+<node id="3ca31af440607b517b1666a20405c3b1">
+<data key="label">www.instagram.com</data>
+</node>
+<node id="f46b800812affec5e578688c7819c93c">
+<data key="label">www.wrdsb.ca</data>
+</node>
+<node id="6d88f021a1872eddede9d86c105f1d91">
+<data key="label">www.eqao.com</data>
+</node>
+<edge source="5123da8bf48108871e0cf27edd355443" target="5123da8bf48108871e0cf27edd355443"  type="directed">
+<data key="weight">22469</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="ee564f957c5ca0ef0e31d5218481d005"  type="directed">
+<data key="weight">3144</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="f46b800812affec5e578688c7819c93c"  type="directed">
+<data key="weight">2027</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="7905d1c4e12c54933a44d19fcd5f9356"  type="directed">
+<data key="weight">1720</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="5bd8731635ee2132eac4b4c8ebd87e6c"  type="directed">
+<data key="weight">1663</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="0877382ff244da16e7755cf4ea6c9e95"  type="directed">
+<data key="weight">855</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="7c1a0490dbdbe5d3f7eb4a4bdf4645fa"  type="directed">
+<data key="weight">830</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="3f550bc163144ccb175a118c37a6641d"  type="directed">
+<data key="weight">828</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="8da932a90ba35013ebdce2d22e47c6a8"  type="directed">
+<data key="weight">825</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="472c99edc76c51bc1fd9aab22d5fd459"  type="directed">
+<data key="weight">91</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="2958aba95e455d1c78bd075742896911"  type="directed">
+<data key="weight">78</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="97349262b5ab52c52000af07bbf2128b"  type="directed">
+<data key="weight">53</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="c63bd02a4896d5f9d1378a61b47c2803"  type="directed">
+<data key="weight">39</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="599c07d87880e125509bcbd31b5c8095"  type="directed">
+<data key="weight">34</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="660328a7f9004d462085aa67a82065db"  type="directed">
+<data key="weight">26</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="69a08aac1054c6a321951acc33bfc3b7"  type="directed">
+<data key="weight">25</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="3ca31af440607b517b1666a20405c3b1"  type="directed">
+<data key="weight">25</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="9d9e0ed844c33edf0d320d40ccb4de12"  type="directed">
+<data key="weight">19</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="5d26c4e3e42238f692976bd78407f42d"  type="directed">
+<data key="weight">19</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="34ff8fe67e4d14f7396f210407eb91e1"  type="directed">
+<data key="weight">18</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="d1800caa7d60fd1385be05d0dccb5695"  type="directed">
+<data key="weight">15</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="d386b6a9697a3146b8017d266e68a55e"  type="directed">
+<data key="weight">14</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="ee564f957c5ca0ef0e31d5218481d005" target="ee564f957c5ca0ef0e31d5218481d005"  type="directed">
+<data key="weight">14</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="95093b1e69e4eb7ba6d15ee439dbb9cb"  type="directed">
+<data key="weight">13</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="6d88f021a1872eddede9d86c105f1d91"  type="directed">
+<data key="weight">13</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="c190efa335ebcb6a7d04d495510529d1"  type="directed">
+<data key="weight">12</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="b15e0fbccd8e687600feb2e00eaa4e53"  type="directed">
+<data key="weight">12</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="c834a512aacd9ad122952194bf1830eb"  type="directed">
+<data key="weight">12</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="9c9da7c47db07ae7fe4ffee2d3eef75b"  type="directed">
+<data key="weight">12</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="aa1ab627915bd04f8ba038134e3ed3b1"  type="directed">
+<data key="weight">11</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="af54f701816050ff5714d989465c6aa2"  type="directed">
+<data key="weight">10</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="973a92f100ca7b9d094da7eb3c94081d"  type="directed">
+<data key="weight">9</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="cb997450f11e3d098e74fe1c4cd6712d"  type="directed">
+<data key="weight">9</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="0ef82cbb4fa11fb0fbba7714f316a37d"  type="directed">
+<data key="weight">8</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="df4c149af3177f047fb285ea552fcf03"  type="directed">
+<data key="weight">8</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="c01f4607371c1ff03fec8a666647dc35"  type="directed">
+<data key="weight">8</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="604d5c5ec67df1a11cfaacc25418d7d8"  type="directed">
+<data key="weight">8</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="0eb78f4200ddfb902abb9a2a609bb7db"  type="directed">
+<data key="weight">7</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="ab3201c6103205c14f6e56b11b2fcd46"  type="directed">
+<data key="weight">7</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="60e026b17abe69e2d8f948b6effd54c4"  type="directed">
+<data key="weight">7</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="94c57be5a5915b7e3139a67d46b8bd4f"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="58d91484d2af338c02a829c6df920268"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="2e341692165e543ccce3086bc6240a49"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="a29d469f3e1bb3aa236fa590af2e71c2"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="2b54b84d195dad8be52b2accb2c31309"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="928cb5c211861a142b576af3da536a93"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="236a4fa0c3cf351403b8f19453a9a942"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="f8995961d5c6b55ba0f05db3bcd750dc"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="fc537f76b70d59864f86bd030aae3ccd"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="b306f040c5f21fe1fed6c7b19760eebb"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="e05dedaca7b78bbbbd673fef8386873a"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="aa355ac41a92da3940288fb665e89acb"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="1f444affda0fe2b79095e7c8e725dbed"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="fb37d1d6f1b226d46d6d86ff171bf12c"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20190531</data>
+</edge>
+<edge source="5123da8bf48108871e0cf27edd355443" target="6a0435971ccbd1044a7ac0667b5577e9"  type="directed">
+<data key="weight">6</data>
+<data key="crawlDate">20190531</data>
+</edge>
+</graph>
+</graphml>
